@@ -23,7 +23,26 @@ erros softwares podem ser corrigidos de forma eficaz.
 
 2. Testes
 	* Porque testar?
+	
+Para evidenciar que os sistemas atendem aos reqiusitos especificados é preciso que sejam realizados testes para identificar erros, sejam eles
+relacionados a sintaxe, regra de negócio, algoritmos e particularidades da liguagem usada no desemvolvimento. Apesar de ser quase impossível
+desenvolver um sistema sem erros os testes devem garantir uma qualidade significativa que não comprometa o seu uso interruptível, já que é inviável
+antever todos os fluxos possíveis do funcionamento de software, e isso se torna mais difícil e complexo conforme o porte do software que está 
+sendo testado. 
+Muitas empresas ainda não tem profissionais especializados na área de teste, comumente esse fato acontece de forma numericamente maior nas empresas
+de pequeno porte onde o desenvolvedor desempenha esse papel, comprometendo a parcialidade do processo já que o mesmo tende a fazer testes mais
+inclinados a um fluxo previamente almejado, impossibilitando do programador de enxergar falhas.
+	
 	* Como testar?
+	
+Mesmo com essas dificuldades na mudança de hábitos organizações existem técnicas que podem auxiliar a testar os softwares, dentre as quais,
+é possível obter resultados significativos na qualidade do software. As técnicas mais conhecidas são: "Caixa-branca", "Caixa-preta","Caixa-cinza",
+"Regressão". Essas técnicas testam se o código está processando as informações, recebendo, passando nas condições, informando erro quandos esses 
+ocorrem, além de validar através de "casos de teste" se determinadas entradas depois de processadas pelo software geram as saídas esperadas. No teste
+de regressão os testes anteriormente usados são feitos novamente após uma alteração ou inclusão de novos códigos, para garantir que o sistema 
+não parou e funcionar após as modificações no todo.
+
+
 3. Gerenciar Testes
 	* Porque Gerenciar?
 	* Como Gerenciar?
