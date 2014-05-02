@@ -1,2 +1,27 @@
-1.Introdução
+1. Introdução
+	* Desenvolvimento de softaware em geral
+	* Gerenciamento de testes em geral
+	* Gerencimeto de versionamento em geral
+2. Testes
+	* Porque testar?
+	* Como testar?
+3. Gerenciar Testes
+	* Porque Gerenciar?
+	* Como Gerenciar?
+4. Versionamento
+	* O que é?
+	* Porque usar?
+	* Como usar?
+5. Benefícios
+	* Consequências do não uso
+	* Benefícios do uso
+		- Cooperação
+6. Ferramentas recomendadas
+	* Quais Ferramentas estão disponíveis
+	* O Git
+7. Conclusão
+	* Tempo
+	* Organização
+	* Aperfeiçoamento
+
 
