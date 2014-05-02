@@ -1,7 +1,26 @@
 1. Introdução
 	* Desenvolvimento de softaware em geral
+	
+Os software hoje estão tão integrados a vida cotidina de maneira que seria impossível manter a mesma eficiência e eficácia dos serviços
+informáticos que ele prestam retrocedento a metodos e ferramentas antigos hoje estão desuso, restando poucos a terem suas funcões
+transportadas para o mundo digital. Com uma demanda maior por serviços rápidos e seguros, o impacto da indisponibilidade ou falha de um
+software pode interfirir em nossa vida uma modo significativo, como por exemplo no caso do funcionamento dos sistemas bancários, acarretando
+na privação de acesso aos recursos finaceiros que dependemos para sobreviver.
+
 	* Gerenciamento de testes em geral
+
+Para que estes programas possam funcionar mantendo a confiabilidade(ISO 9116) precisam que suas funcionalidade sejam testadas de modo a garantir
+a satisfação do usuário. Esses testes não pode ser feitos de qualquer maneira, portanto tem que ser padronizados de maneira que ao final
+das rotinas o sistema esteja em conformidade com os requisitos do sistema, alem disso eles devem ser bem documentados para que esses dados possam 
+ser analisados e usados para identificar erros decorrentes da codificação. De acordo com um estudo de 2002 os defeitos de software tem um custo de
+59,5 bilhões à economia dos Estados Unidos.
+	
 	* Gerencimeto de versionamento em geral
+	
+Umas das formas de documentar o código que pode ser bastante útil para teste é uso de sistemas de versionamento que forneceram dados que
+ajudaram os programadores acompanhar a evolução dos softwares que estão sendo desenvolvidos ou atualizados. Com recurso de versionamento os
+erros softwares podem ser corrigidos de forma eficaz.
+
 2. Testes
 	* Porque testar?
 	* Como testar?
@@ -23,5 +42,7 @@
 	* Tempo
 	* Organização
 	* Aperfeiçoamento
+8. Referências
+
 
 
