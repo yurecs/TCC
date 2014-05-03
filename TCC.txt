@@ -77,8 +77,20 @@ internet.
 	
 5. Benefícios
 	* Consequências do não uso
+	
+Em casos em que a equipe de desenvolvimento vai trabalhar com um projeto muito grande a ausencia de um sistema de versionamento pode acarretar em
+inúmros erros de execução devido as alterações de ambos os programadores que podem ter o funcionamento dos componentes criados comprometidos 
+devido às alterações nos mesmo ou em outros do qual esse dependem para funcionar. Mesmo em projetos pequenos em apenas um programador é responsavel
+pelo desenvolvimento, o software pode apresentar problemas após a alteração ou inserção de novos códigos.
+	
 	* Benefícios do uso
+	
+Ambos exemplos teriam o benefício de ter registros de alterações se usasem sistemas de versionamento pois assim saberiam exatamente o que foi alterado
+podendo assim corrigir o que for necessário ou retornar ao estado anterior a alteração.
 		- Cooperação
+Alem do mais a possibilidade de realizar o desenvolvimento em conjunto agilizaria em muito os projetos, pois os programadores poderiam usar os componentes
+uns dos outros assim que estivessem diponíveis e tambem contribuir para o código de seus companheiros, corrigindo erros, melhorando a performance e
+legibilidade do código.
 6. Ferramentas recomendadas
 	* Quais Ferramentas estão disponíveis
 	* O Git
