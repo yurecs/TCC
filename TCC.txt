@@ -91,9 +91,15 @@ podendo assim corrigir o que for necessário ou retornar ao estado anterior a al
 Alem do mais a possibilidade de realizar o desenvolvimento em conjunto agilizaria em muito os projetos, pois os programadores poderiam usar os componentes
 uns dos outros assim que estivessem diponíveis e tambem contribuir para o código de seus companheiros, corrigindo erros, melhorando a performance e
 legibilidade do código.
+
 6. Ferramentas recomendadas
 	* Quais Ferramentas estão disponíveis
 	* O Git
+	
+Para obter uma melhor desempenho no desenvolvimento em conjunto o Git por ser um sistema de versionamento distribuído permite que mais pessoa trabalhem
+em umprojeto mantendo a unidade do mesmo.Imagine que você tenha um sistema que esteja sendo controlado pelo Git e você criou um código(figura 1) que depende
+de outro(figura 2) código do qual ele usa os recursos.
+	
 7. Conclusão
 	* Tempo
 	* Organização
