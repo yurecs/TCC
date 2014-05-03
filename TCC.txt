@@ -45,11 +45,36 @@ não parou e funcionar após as modificações no todo.
 
 3. Gerenciar Testes
 	* Porque Gerenciar?
+
+A importância do gerenciamento de testes para a evolução na qualidade dos softwares é que ele ajuda não apenas a entender os erros de um determinado
+programa mas tambem a proporcionar que o conhecimento registrado na documentação seja utilizado para aprimorar os processos de desenvolvimento e tambem
+os conhecimentos dos programadores que poderam evitar erros em outros projetos apartir do aprendizado de experiências anteriores com situções 
+idênticas ou parecidas.
+	
 	* Como Gerenciar?
+	
+O primeiro passo a fazer é planejar o testes, ou seja, decidir exatamente o que vai ser feito e como, logo após isso é preciso preparar o ambiente e 
+confeccionar "Casos de teste", que são dados fictícios que serão usados para verificar se o sistema está funcionando da forma adequada, depois é feito
+o teste propriamente dito. Caso erros de códdigo ou conformidade com os requisitos aconteçam essas falhas serão documentadas e analisadas visando sua
+correção.
+	
 4. Versionamento
 	* O que é?
+	
+O versionamento é processo de documentação dos estados do sistema visando registar todo progresso do mesmo.
+	
 	* Porque usar?
+	
+Esse controle tem o objetivo guardar informações de todos os componentes de um software registrando estados e alterações, com isso é possivel
+compreender o funcionamento do sistema e também identificar erros comparando os estados anteriores a atual. Caso dois desenvolvedores utilizem 
+o mesmo código e um deles altere uma parte do código que estava sendo usado por um componente criado pelo outro programador este pode visualizar as
+informações da alteração e adequar seu componente que está atrelado ao código modificados pelo outro programador caso necesário.
+	
 	* Como usar?
+	
+Existem programas voltados para o controle de versão e também repositórios online para que seu código possa ser acesso de qualquer computador com
+internet.
+	
 5. Benefícios
 	* Consequências do não uso
 	* Benefícios do uso
