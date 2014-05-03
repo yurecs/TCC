@@ -97,14 +97,38 @@ legibilidade do código.
 	* O Git
 	
 Para obter uma melhor desempenho no desenvolvimento em conjunto o Git por ser um sistema de versionamento distribuído permite que mais pessoa trabalhem
-em umprojeto mantendo a unidade do mesmo.Imagine que você tenha um sistema que esteja sendo controlado pelo Git e você criou um código(figura 1) que depende
+em um projeto em maquinas diferentes mantendo a unidade do mesmo com o auxilio de um repositório online.Imagine que você tenha um sistema que esteja sendo controlado pelo Git e você criou um código(figura 1) que depende
 de outro(figura 2) código do qual ele usa os recursos.
+
+Figura 1 - nome figura
+Fonte: www.teste.com.br
+figura 2 - nome figura
+Fonte: Autor, 2014
+
+A primeira medida a ser aplicada para o inicio do processo de versionamento é escolher a pasta onde ficará os arquivos do sistema, após isso esta pasta deve ser
+adicionada por meio de um comando para que seus arqiuvos sejam versionados. A cada adição, modificação ou exclusão de arquivos o sistema de versionamento deve ser
+acionada para salvar o estado atual do sistema.
+	* Versionamento e teste caixa-branca
+Antes de realizar esse teste o arquivos dever ser comitados e sincronizados com o repositório da internet, feito isso os codigos pode ter suas condições testadas
+por vários programadores do time que poderam fazer alterações e correções. Supondo que um programador tenha codificado um componente(figura3) de um sistema  que
+tenha determinada condição, Caso este programador esqueça de adicionar alguma validação ou feito da maneira correta outro desenvolvedor pode corrigir o código(figura2) 
+em questão e já testá-lo novamente e atualizar a versão com o Git.
+
+	*	------		e teste caixa-preta
+	*	------		e teste caixa-cinza
+	*	------		e teste de regressão
+
 	
-7. Conclusão
+7. Conclusão ou considerações finas
+- Enfatizar a relevancia da pesqiuisa
+- apresentar o objetivo da pesquisa
+- apontar/avaliar os principais resultados
+- trabalhos futuros
 	* Tempo
 	* Organização
 	* Aperfeiçoamento
 8. Referências
+URL de reportagem - Escreva: Texto estraído de ...
 
 
 
