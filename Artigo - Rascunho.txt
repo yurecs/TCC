@@ -1,4 +1,11 @@
-Resumo/Abstract
+﻿Resumo/Abstract
+
+A grande quantidas de aplicações informáticas e os serviços que elas prestam à sociedade é cada vez maior, e o número de usuários que usufruem desses softwares
+aumenta cada com  queda dos preços dos dipositivos de todos os portes e para cada faixa social. Isso exige que serviçõs digitais sejam mais robustos 
+em termos de velocidade e disponibilidade já que os usuários se utilizam dos aplicativos em vários horários e quantidades. Com a o uso de versionamento
+de código em conjunto com o gerenciamento de testes é  possível atender a demanda por software e qualidade fornecendo atrvés desse junção softwares com menos
+erros e de fácil correção dos bugs graças à documentação que os sistemas de versionamento fornecem à area de testes.
+
 Introdução
 	Contexto/Justificativa
 	Problema
