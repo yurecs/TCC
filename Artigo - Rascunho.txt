@@ -6,6 +6,13 @@ em termos de velocidade e disponibilidade já que os usuários se utilizam dos a
 de código em conjunto com o gerenciamento de testes é  possível atender a demanda por software e qualidade fornecendo atrvés desse junção softwares com menos
 erros e de fácil correção dos bugs graças à documentação que os sistemas de versionamento fornecem à area de testes.
 
+A grande quantidade de aplicações que precisam está em funcionamento initerruptamente são uma realidade inescapável, por isso esse estudo visa usar o
+controle de versionamento aliado ao gerenciamento de testes para diminuir a quantidade de erros nos softwares após esse serem colocados no ambiente de
+produção. Através do uso do sistema de versionamento Git em conjunto com o repositório Github os históricos e os casos de testes dos software que são
+desenvolvidos são acompanhados de modo a dar suporte aos testes, esse controles permitiram que o desenvolvedor identificasse não apenas os erros que
+causaram a interrupção do funcionamento mas tambem desse suporte para que essas falhas não se repetissem no mesmo projeto e nos demais que foram feitos
+posteirormente.
+
 Introdução
 	Contexto/Justificativa
 	Problema
